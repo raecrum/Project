@@ -1,4 +1,4 @@
-Github has file size limits, so the full Task1 and Task4 CSV outputs can be downloaded externally. I have attached sample csv's for the first 1000 lines in the repository.
+Github has file size limits, so the full Task-1, Task-4, and Task-5 CSV outputs can be downloaded externally. I have attached sample csv's for the first 1000 lines in the repository.
 
 Download Links:
 
